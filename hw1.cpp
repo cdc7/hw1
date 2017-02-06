@@ -45,7 +45,7 @@
 #define WINDOW_WIDTH  800
 #define WINDOW_HEIGHT 600
 
-#define MAX_PARTICLES 8000
+#define MAX_PARTICLES 80000
 #define GRAVITY 0.10
 #define rnd() (float)rand() / (float)RAND_MAX
 
